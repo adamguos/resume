@@ -27,7 +27,7 @@
 	Developed and maintained student government website in Ruby on Rails, both front-end and back-end.
 	Helped rebuild version 2 of the website from the ground up.
 
-**Coachbase** *Developer Intern* __Summer 2016__
+**Developer Intern** *Coachbase* __Summer 2016__
 	Maintained and added new features to company website in Node.js, such as video playback and user payment.
 	Automated company backend processes such as marketing emails and client invoices.
 
