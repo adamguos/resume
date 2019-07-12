@@ -1,19 +1,13 @@
 # Adam Guo
-## Mathematics Major and Developer at Pomona College ('22)
+## Mathematics major student at Pomona College ('22)
 
 > [adamguos.github.io](http://adamguos.github.io)
 > [adamguos@gmail.com](mailto:adamguos@gmail.com)
 > (323) 719 7077
 
-------
+Hi! I'm Adam. I'm passionate about math and computers, particularly how the two come together to produce fascinating and meaningful results for the real world. To that end, I'm interested in all aspects of computational math (from mathematical theory to practical implementations through high-performance computing) and I'm very excited for opportunities to take my studies further.
 
-### Technical
-
-1. Python
-2. Javascript / Node.js
-3. Ruby/Ruby on Rails
-4. Linux system administration
-5. Git
+Additionally, I'm interested in the intersection of technology and society, especially how techniques such as artificial intelligence both help and hinder humanity at large, from job automation and wide-scale infrastructural change to digital content moderation and interpersonal relationships.
 
 ------
 
@@ -37,7 +31,7 @@
 
 * **School timetable converter**
 	<a href=http://www.cis-timetable-csv.herokuapp.com class=not-printed>cis-timetable-csv.herokuapp.com</a>
-	Node.js-based web app used by all secondary students and teachers at Chinese International School to import their plaintext class schedule into Google Calendar.
+	Node.js-based web app used by all secondary students and teachers at Chinese International School to import their plaintext class schedules into Google Calendar.
 
 * **School music room booking system**
 	<a href=https://github.com/adamguos/music-room-booking class=not-printed>github.com</a>
