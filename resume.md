@@ -14,15 +14,13 @@ I'm also passionate about Linux and computer infrastructure. I love tinkering wi
 
 ------
 
-### Education
+### Skills
 
-**Pomona College** *Mathematics and Computer Science Major* __2018 to 2022__
-	Courses taken include Vector Calculus, Probability, Discrete Math and Functional Programming.
-	Taking Data Structures, Differential Equations, and Statistical Linear Modelling in Spring 2020.
-	TA for CS department.
-
-**Chinese International School Hong Kong** *International Baccalaureate* __2008 to 2018__
-	Nominated and selected as Head Boy of class. Won several awards for academic achievement throughout high school. Earned Bilingual Diploma for English and Chinese.
+1. JavaScript/Node.js, Python, Ruby on Rails
+1. MATLAB, Julia, WolframScript
+1. Docker, Vagrant, Capistrano
+1. Linux, BASH, Git
+1. Java, Android
 
 ------
 
@@ -30,7 +28,7 @@ I'm also passionate about Linux and computer infrastructure. I love tinkering wi
 
 **Research Assistant** *Claremont Graduate University Institute of Mathematical Sciences* __Summer 2019__
 	Worked with Claremont Graduate University professor Hrushikesh Mhaskar to investigate methods of computing inverse Laplace transforms of linear combinations of point masses, with applications to machine learning. Preparing to be published. Implemented algorithms such as Gauss quadrature formula computations and discrete Fourier transforms in Julia, Python, MATLAB, and WolframScript based on significant relevant papers.
-	[github.com](http://github.com/adamguos/surp-2019)
+	[github.com/adamguos/surp-2019](http://github.com/adamguos/surp-2019)
 
 **Web Developer** *Associated Students of Pomona College* __2018 to present__
 	Developed and maintained student government website in Ruby on Rails, both front-end and back-end. Used deployment/development technologies including Vagrant and Capistrano.
@@ -46,14 +44,28 @@ I'm also passionate about Linux and computer infrastructure. I love tinkering wi
 
 ### Projects
 
+* **Self-hosted Linux server**
+	[acousticwheels.duckdns.org](https://acousticwheels.duckdns.org)
+	Arch Linux-based home server, hosting remote backup, media, and scientific computation services for personal use.
+	Services containerised and managed with Docker.
+	Runs 24/7 on low-power PC hardware.
+
 * **School timetable converter**
 	[cis-timetable-csv.herokuapp.com](http://www.cis-timetable-csv.herokuapp.com)
 	Node.js-based web app used by all secondary students and teachers at Chinese International School to import their plaintext class schedules into Google Calendar.
 
-* **School music room booking system**
-	[github.com](https://github.com/adamguos/music-room-booking)
-	Node.js-based web app used by Chinese International School music department to allow students to book music rooms online. Interfaces with a Google Sheets document managed by the school.
-
 * **Python music player**
-	[github.com](https://github.com/adamguos/dd-music-player)
+	[github.com/adamguos/dd-music-player](https://github.com/adamguos/dd-music-player)
 	Music player written in Python, capable of playing both local files and Spotify music. Indexes files using the MongoDB database software.
+
+------
+
+### Education
+
+**Pomona College** *Mathematics and Computer Science Major* __2018 to 2022__
+	Courses taken include Vector Calculus, Probability, Discrete Math and Functional Programming.
+	Taking Data Structures, Differential Equations, and Statistical Linear Modeling in Spring 2020.
+	TA for CS department.
+
+**Chinese International School Hong Kong** *International Baccalaureate* __2008 to 2018__
+	Nominated and selected as Head Boy of class. Won several awards for academic achievement throughout high school. Earned Bilingual Diploma for English and Chinese.
